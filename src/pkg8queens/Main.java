@@ -2,9 +2,6 @@ package pkg8queens;
 
 public class Main {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
 
         for (int column = 0; column < _8Queens.SIZE; column++) {
